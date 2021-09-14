@@ -4,4 +4,3 @@ Editing in git hub
 
 branch 1 changes
 
-branch merged
