@@ -4,3 +4,7 @@ Editing in git hub
 
 branch 1 changes
 
+<<<<<<< HEAD
+=======
+branch merged
+>>>>>>> branch1
